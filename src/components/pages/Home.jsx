@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import DatePicker from 'react-datepicker';
+import "react-datepicker/dist/react-datepicker.css";
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import { Button, Card, CardImg, Container } from 'react-bootstrap';
