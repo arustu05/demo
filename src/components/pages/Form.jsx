@@ -6,7 +6,7 @@ import {Row,Col} from 'react-bootstrap'
 const RegForm = () => {
 
   return (
-
+    
     <>
         <Form>
             <Row className="mb-3">
